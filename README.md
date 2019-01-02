@@ -26,7 +26,8 @@ Simple changes:
 [Yoga With Adriene](https://www.youtube.com/user/yogawithadriene/playlists) 
 
 ## Grow
-
+ 
+ 
 [GTD Five Steps Method](https://gettingthingsdone.com/five-steps/) - apply order to chaos.
 
 Great page with [awesome book reviews](https://sivers.org/book).
